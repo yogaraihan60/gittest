@@ -24,3 +24,39 @@ rtp://@239.1.1.247:9440
 rtp://@239.1.1.142:8967
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_aniplus_big1.png" group-title="HD Channel",929 ANI PLUS HD
 rtp://@239.1.2.104:9526
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_dreamworks_big1.png" group-title="HD Channel",932 DreamWork HD
+rtp://@239.1.1.234:9222
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_cartoonnetwork_big.png" group-title="HD Channel",933 Cartoon Network HD
+rtp://@239.1.2.81:8083
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_indikids_big.png" group-title="HD Channel",934 Indi Kids HD
+rtp://@239.1.1.201:9180
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_boomerang_big.png" group-title="HD Channel",935 Boomerang HD
+rtp://@239.1.1.163:8084
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mycinema_small.png" group-title="HD Channel",936 My Cinema HD
+rtp://@239.1.2.225:9318
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_myfamilychannel_big.png" group-title="HD Channel",937 My Family HD
+rtp://@239.1.1.237:9396
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nickelodeon_big.png" group-title="HD Channel",938 Nickelodeon HD
+rtp://@239.1.1.14:7982
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nickjr_big.png" group-title="HD Channel",939 Nick Junior HD
+rtp://@239.1.1.162:7983
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_fashiontv_big1.png" group-title="HD Channel",940 Fashion TV HD
+rtp://@239.1.2.237:9348
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_prambors_big1.png" group-title="HD Channel",941 Prambors HD
+rtp://@239.1.1.254:8019
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_afc_big.png" group-title="HD Channel",943 AFN HD
+rtp://@239.1.2.13:8052
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tlc_big.png" group-title="HD Channel",944 TLC HD
+rtp://@239.1.2.235:9342
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sone_big1.png" group-title="HD Channel",945 Sony One HD
+rtp://@239.1.2.21:8100
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sgem_big1.png" group-title="HD Channel",946 Sony Gem HD
+rtp://@239.1.2.18:8082
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_techstorm_big.png" group-title="HD Channel",947 Tech Storm HD
+rtp://@239.1.2.229:9330
+#EXTINF:-1 tvg-logo="http://i.ibb.co/SRn7G0r/mtvlive.png" group-title="HD Channel",948 MTV Live HD
+rtp://@239.1.2.16:8070
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_ikonser_big.png" group-title="HD Channel",949 i Konser HD
+rtp://@239.1.2.221:9250
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_kplus_big1.png" group-title="HD Channel",952 K+ HD
+rtp://@239.1.1.202:9186
