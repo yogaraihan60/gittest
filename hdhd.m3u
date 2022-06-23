@@ -1,62 +1,56 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tvri_big1.png" group-title="HD Channel",880 TVRI HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tvri_big1.png" group-title="HD Channel",1 TVRI HD
 rtp://@239.1.1.238:8016
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_indosiar_big1.png" group-title="HD Channel",881 Indosiar HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_indosiar_big1.png" group-title="HD Channel",2 Indosiar HD
 rtp://@239.1.1.214:8010
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_kompastv_big1.png" group-title="HD Channel",882 Kompas TV HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_kompastv_big1.png" group-title="HD Channel",3 Kompas TV HD
 rtp://@239.1.1.240:8017
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_net_big1.png" group-title="HD Channel",910 Net TV HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_net_big1.png" group-title="HD Channel",4 Net TV HD
 rtp://@239.1.1.158:8922
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_transtv_big1.png" group-title="HD Channel",911 TransTV HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_transtv_big1.png" group-title="HD Channel",5 TransTV HD
 rtp://@239.1.1.194:9138
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_trans7_big1.png" group-title="HD Channel",912 Trans7 HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_trans7_big1.png" group-title="HD Channel",6 Trans7 HD
 rtp://@239.1.1.222:9306
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_cnnindonesia_big1.png" group-title="HD Channel",913 CNN Indonesia HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tvone_big1.png" group-title="Local Channel",7 TV One
+rtp://@239.1.1.31:8160
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_cnnindonesia_big1.png" group-title="HD Channel",8 CNN Indonesia HD
 rtp://@239.1.1.180:9054
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sctv_big1.png" group-title="HD Channel",914 SCTV HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sctv_big1.png" group-title="HD Channel",9 SCTV HD
 rtp://@239.1.2.58:8324
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_metrotv_big1.png" group-title="HD Channel",915 METRO TV HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_metrotv_big1.png" group-title="HD Channel",10 METRO TV HD
 rtp://@239.1.2.2:7986
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_discovery_big.png" group-title="HD Channel",927 Discovery HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_discovery_big.png" group-title="HD Channel",11 Discovery HD
 rtp://@239.1.1.247:9440
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_animax_big.png" group-title="HD Channel",928 Animax HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_animax_big.png" group-title="HD Channel",12 Animax HD
 rtp://@239.1.1.142:8967
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_aniplus_big1.png" group-title="HD Channel",929 ANI PLUS HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_aniplus_big1.png" group-title="HD Channel",13 ANI PLUS HD
 rtp://@239.1.2.104:9526
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_dreamworks_big1.png" group-title="HD Channel",932 DreamWork HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_dreamworks_big1.png" group-title="HD Channel",14 DreamWork HD
 rtp://@239.1.1.234:9222
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_cartoonnetwork_big.png" group-title="HD Channel",933 Cartoon Network HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_cartoonnetwork_big.png" group-title="HD Channel",15 Cartoon Network HD
 rtp://@239.1.2.81:8083
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_indikids_big.png" group-title="HD Channel",934 Indi Kids HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_indikids_big.png" group-title="HD Channel",16 Indi Kids HD
 rtp://@239.1.1.201:9180
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_boomerang_big.png" group-title="HD Channel",935 Boomerang HD
-rtp://@239.1.1.163:8084
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mycinema_small.png" group-title="HD Channel",936 My Cinema HD
-rtp://@239.1.2.225:9318
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_myfamilychannel_big.png" group-title="HD Channel",937 My Family HD
-rtp://@239.1.1.237:9396
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nickelodeon_big.png" group-title="HD Channel",938 Nickelodeon HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nickelodeon_big.png" group-title="HD Channel",17 Nickelodeon HD
 rtp://@239.1.1.14:7982
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nickjr_big.png" group-title="HD Channel",939 Nick Junior HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nickjr_big.png" group-title="HD Channel",18 Nick Junior HD
 rtp://@239.1.1.162:7983
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_fashiontv_big1.png" group-title="HD Channel",940 Fashion TV HD
-rtp://@239.1.2.237:9348
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_prambors_big1.png" group-title="HD Channel",941 Prambors HD
-rtp://@239.1.1.254:8019
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_afc_big.png" group-title="HD Channel",943 AFN HD
-rtp://@239.1.2.13:8052
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tlc_big.png" group-title="HD Channel",944 TLC HD
-rtp://@239.1.2.235:9342
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sone_big1.png" group-title="HD Channel",945 Sony One HD
-rtp://@239.1.2.21:8100
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sgem_big1.png" group-title="HD Channel",946 Sony Gem HD
-rtp://@239.1.2.18:8082
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_techstorm_big.png" group-title="HD Channel",947 Tech Storm HD
-rtp://@239.1.2.229:9330
-#EXTINF:-1 tvg-logo="http://i.ibb.co/SRn7G0r/mtvlive.png" group-title="HD Channel",948 MTV Live HD
-rtp://@239.1.2.16:8070
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_ikonser_big.png" group-title="HD Channel",949 i Konser HD
-rtp://@239.1.2.221:9250
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_kplus_big1.png" group-title="HD Channel",952 K+ HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_kplus_big1.png" group-title="HD Channel",19 K+ HD
 rtp://@239.1.1.202:9186
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="Movie",20 HBO HD
+rtp://@239.1.1.203:9192
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0GWjcWV/hbofamily.png" group-title="Movie",21 HBO Family HD
+rtp://@239.1.2.245:9366
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_natgeo_big.png" group-title="HD Channel",22 National Geographic HD
+rtp://239.1.1.243:9432
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_boomerang_big.png" group-title="HD Channel",23 Boomerang HD
+rtp://@239.1.1.163:8084
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein3_big1.png" group-title="HD Channel",24 Bein Sport 3 HD
+rtp://@239.1.1.249:9496
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_spotv_big.png" group-title="HD Channel",25 SPOTV HD
+rtp://@239.1.1.109:8623
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_spotv2_big.png" group-title="HD Channel",26 SPOTV 2 HD
+rtp://@239.1.1.196:9145
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_fight_big1.png" group-title="HD Channel",27 Fight Sport HD
+rtp://@239.1.2.209:9196
