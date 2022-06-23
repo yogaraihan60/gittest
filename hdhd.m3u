@@ -54,3 +54,5 @@ rtp://@239.1.1.109:8623
 rtp://@239.1.1.196:9145
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_fight_big1.png" group-title="HD Channel",27 Fight Sport HD
 rtp://@239.1.2.209:9196
+#EXTINF:-1 tvg-logo="https://myrepublic.co.id/wp-content/uploads/2019/02/LBS-K_DRAMA.jpg" group-title="HD",28 LBS Drama HD 
+rtp://@239.1.2.101:9521
