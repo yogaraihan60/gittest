@@ -1,5 +1,6 @@
 #EXTM3U
 
+
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tvri_big1.png" group-title="HD Channel",101 TVRI HD
 rtp://@239.1.1.238:8016
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_indosiar_big1.png" group-title="HD Channel",102 Indosiar HD
@@ -101,3 +102,36 @@ rtp://@239.1.2.211:9202
 #EXTINF:-1 tvg-logo="http://i.ibb.co/mGJjhzP/tvnmovie.png" group-title="Movie",137 TVN Movie HD
 rtp://@239.1.2.72:8408
 
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_jtv_big1.png" group-title="Local Channel",138 JTV
+rtp://@239.1.1.6:8010
+
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_rtv_big1.png" group-title="HD Channel",139 RTV HD
+rtp://@239.1.1.253:8018
+
+
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_kix_big.png" group-title="Gen Entertainment",140 KIX HD
+rtp://@239.1.2.207:9190
+
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_imc_big.png" group-title="HD Channel",141 IMC HD
+rtp://@239.1.1.145:8844
+
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bioskopindonesia_big1.png" group-title="Movie",142 Bioskop Indonesia
+rtp://@239.1.1.226:9332
+
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_thrill_big.png" group-title="Movie",143 Thrill
+rtp://@239.1.1.83:8472
+
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_axn_big.png" group-title="Gen Entertainment",144 AXN HD
+rtp://@239.1.1.245:9436
+
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sgem_big1.png" group-title="HD Channel",145 Sony Gem HD
+rtp://@239.1.2.18:8082
+
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_flik_big1.png" group-title="Movie",146 Flik HD
+rtp://@239.1.1.239:9276
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mycinemaasia_small.png" group-title="Movie",147 My Cinema Asia
+rtp://@239.1.1.151:8880
+
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_galaxypremium_big.png" group-title="Movie",148 GALAXY PREMIUM HD
+rtp://@239.1.2.100:9518
